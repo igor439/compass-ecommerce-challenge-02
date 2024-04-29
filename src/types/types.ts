@@ -1,0 +1,1 @@
+export type ThematicCardProps = {imageLink:string; alt:string; title:string}
